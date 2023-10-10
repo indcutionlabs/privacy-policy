@@ -1,0 +1,79 @@
+<html>
+<style type="text/css" id="styleA">
+</style>
+<link type="text/css" rel="stylesheet" id="styleA">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+<body>
+<pre>
+This is the privacy policy for <a href=https://play.google.com/store/apps/details?id=ilabs.RetroShooter.Cardboard><b>RetroShooterVR</b></a>
+
+Where we refer to <i style='color:Green;'> "personal data" </i>
+in this privacy policy we mean any data that may identify you as an individual.
+
+Our app collects data regarding app performance ,crashes and some key metrics like 
+inapp purchase/unlocks. 
+Data regarding inapp purchases is stored on Apple/Google servers based on app and can not be deleted.
+The rest of data regarding app performance is auto stored for 180 days and deleted after that .
+To delete that or any other data regarding you sooner , just mail us @ inductionlabs1@gmail.com .
+
+This page is used to inform visitors regarding our  policies with the collection, use, and disclosure of Personal Information if any collected by this app or 3rd party services inside this app.
+If you choose to use this app , Then you agree to the collection and use of information in relation to this policy.
+The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
+
+<b>Changes to This Privacy Policy</b>
+<b style='color:Red;'>
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Protecting your personal data and maintaining your trust is core to our mission at Ilabs.
+</b>
+
+<b>Below is an explanation of common app permissions and reson why we may need them </b>
+- CAMERA
+  - for taking photos /video
+
+- RECORD_AUDIO
+  - for recording of audio in a video 
+
+- ACCESS_NETWORK_STATE / INTERNET
+  - to show advertisment in freemium app orcheck update fromourserver 
+
+- WAKE_LOCK
+  - to stop device getting into sleep while recording videos
+
+- BILLING
+  - for in-app purchase upgrades 
+
+
+<b>Information Collection and Use</b>
+
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+
+Apple app services or Google Play Services 
+AdMob
+Meta Audince network 
+Crash Log Data
+
+We want to inform you that whenever you use our Service, in a case of an error /crash  in the app We collect data and information (through third party products) on your phone called Log Data.
+This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service
+the time and date of your use of the Service, and other statistics.
+
+
+<b>Contact Us</b>
+        <i>For any queries:<a href="mailto:inductionlabs1@gmail.com?Subject=App%20Support%20LaserLevel">inductionlabs1@gmail.com</a></i>
+
+
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
+Our app collects data regarding app performance ,crashes and some key metrics like 
+inapp purchase/unlocks. 
+Data regarding inapp purchases is stored on Google servers and can not be deleted.
+The rest of data regarding app performance is auto stored for 180 days and deleted after that .
+To delete that or any other data regarding you sooner , just mail us @ inductionlabs1@gmail.com .
+
+</pre>
+</body>
+</html>
